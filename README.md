@@ -203,18 +203,6 @@ SYSTEM STATUS:
 ONLINE
 ```
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomixAge&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomixAge&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -230,26 +218,6 @@ ONLINE
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomixAge&theme=react-dark&hide_border=true&bg_color=000000&color=A855F7&line=7C3AED&point=C084FC"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TomixAge&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TomixAge/TomixAge/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
