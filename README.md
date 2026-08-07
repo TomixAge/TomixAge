@@ -231,7 +231,7 @@ ONLINE
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mateus-barboza-ferreira/](https://www.linkedin.com/in/mateus-barboza-ferreira-8b0282189?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+<a href="https://www.linkedin.com/in/mateus-barboza-ferreira-8b0282189?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
